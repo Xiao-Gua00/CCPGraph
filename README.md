@@ -18,6 +18,7 @@ Requirements:
 ~~~
 
 Note 1: Our model provides the density value for cocrystal which stoichiometric ratio is 1:1.
+
 Note 2: You need to prepare the input files of each coformer, whose format can be sturcture file, such as 'sdf', 'mol' or sequence file such as SMILES.
 
 For example, you can use CCPGraph for prediction cocrystal density by the following command:
